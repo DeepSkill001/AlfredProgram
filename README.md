@@ -1,1 +1,1 @@
-# AlfredProgram
+AlfredProgram - Программа для изучения столиц стран.
